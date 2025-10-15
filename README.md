@@ -1,5 +1,5 @@
 # TechStore - E-commerce Website
-
+# 
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. TechStore offers a complete shopping experience with product browsing, shopping cart functionality, and secure checkout.
 
 ## Features
@@ -234,14 +234,6 @@ TechStore/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Support
-
-For questions or support, please contact:
-- Email: info@techstore.com
-- Phone: +1 (555) 123-4567
-
----
 
 **TechStore** - Your trusted destination for quality technology products at great prices.
 
