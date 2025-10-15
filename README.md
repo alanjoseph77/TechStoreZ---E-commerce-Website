@@ -1,6 +1,6 @@
-# TechStore - E-commerce Website
+# TechStoreZ - E-commerce Website
 # 🌐 **Live Demo:** [https://alanjoseph77.github.io/TechStoreZ---E-commerce-Website/](https://alanjoseph77.github.io/TechStoreZ---E-commerce-Website/)
-A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. TechStore offers a complete shopping experience with product browsing, shopping cart functionality, and secure checkout.
+A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. TechStoreZ offers a complete shopping experience with product browsing, shopping cart functionality, and secure checkout.
 
 ## Features
 
@@ -25,7 +25,7 @@ A modern, responsive e-commerce website built with HTML, CSS, and JavaScript. Te
 ## File Structure
 
 ```
-TechStore/
+TechStoreZ/
 ├── index.html              # Homepage
 ├── products.html           # Product catalog page
 ├── checkout.html           # Checkout process
@@ -235,6 +235,6 @@ TechStore/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-**TechStore** - Your trusted destination for quality technology products at great prices.
+**TechStoreZ** - Your trusted destination for quality technology products at great prices.
 
 Built with ❤️ for modern e-commerce experiences.
